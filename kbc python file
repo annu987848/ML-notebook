@@ -1,0 +1,11 @@
+print("welcome to KBC!")
+question1="What is the capital of India?\n(a) New Delhi\n(b) Mumbai\n(c) Kolkata\n(d) Chennai"
+if input(question1+"\nYour answer: ").lower()=="a":
+    print("aap jeet chuke hai 100000!")
+question2="Which planet is known as the Red Planet?\n(a) Earth\n(b) Mars\n(c) Jupiter\n(d) Saturn"
+if input(question2+"\nYour answer: ").lower()=="b":
+    print("aap jeet chuke hai 1000000!")
+question3="Who wrote 'Romeo and Juliet'?\n(a) Charles Dickens\n(b) Mark Twain\n(c) William Shakespeare\n(d) Jane Austen"
+if input(question3+"\nYour answer: ").lower()=="c":
+    print("aap jeet chuke hai 1000000!")
+print("Congratulations! aap bn gye hai crorepati!")
